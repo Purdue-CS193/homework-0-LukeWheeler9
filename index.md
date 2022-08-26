@@ -1,6 +1,6 @@
-### Luke's First CS193 Homework
+# Luke's First CS193 Homework
 
-# My favorite things about CS193
+### My favorite things about CS193
 - Simple instructions
 - Friendly teachers
 - Interesting content
