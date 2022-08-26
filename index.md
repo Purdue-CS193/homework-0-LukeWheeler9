@@ -2,8 +2,8 @@
 
 # My favorite things about CS193
 - Simple instructions
-- friendly teachers
-- interesting content
+- Friendly teachers
+- Interesting content
 
 ## Welcome to GitHub Pages
 
